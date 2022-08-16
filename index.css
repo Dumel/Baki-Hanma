@@ -28,6 +28,8 @@ h2 {
 
 h3 {
     color: red;
+    text-align: center;
+   padding-top: 2%;
 }
 
 .container {
@@ -37,3 +39,8 @@ h3 {
 footer {
     text-align: right;
 }
+
+p {
+    text-align: center;
+}
+
