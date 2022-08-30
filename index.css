@@ -1,9 +1,9 @@
 body {
     background-color: white;
+    height: 100vh;
 }
 
 ul {
-    
     list-style-type: none;
 }
 
@@ -29,7 +29,7 @@ h2 {
 h3 {
     color: red;
     text-align: center;
-   padding-top: 2%;
+    padding-top: 2%;
 }
 
 .container {
@@ -43,4 +43,3 @@ footer {
 p {
     text-align: center;
 }
-
